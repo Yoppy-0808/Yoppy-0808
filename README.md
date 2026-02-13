@@ -22,4 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoppy-0808&" alt="Yoppy-0808" /></p>
 
+## 🐍 Action
+![snake animation](https://github.com/Yoppy-0808/Yoppy-0808/blob/output/github-contribution-grid-snake.svg)
 
